@@ -33,6 +33,11 @@ If not already running, run redis server in another tab or window:
 $ redis-server
 ```
 
+If not already running, run postgres in another tab or window:
+```
+$ postgres
+```
+
 Compile and run butterchat:
 ```
 $ ./run.sh
@@ -51,7 +56,7 @@ $ chmod a+x run.sh
 * Socket.IO
 * LESS
 * Jade
-
+* jQuery
 
 ### Legal
 
