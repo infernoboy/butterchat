@@ -1,0 +1,4 @@
+node_modules/
+logs/
+*.css
+!public/js/external/

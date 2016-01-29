@@ -1,0 +1,26 @@
+	{
+	"name": "butterchat",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node app"
+	},
+	"dependencies": {
+		"express": "*",
+		"express-session": "*",
+		"express-logger": "*",
+		"body-parser": "*",
+		"cookie-parser": "*",
+		"errorhandler": "*",
+		"jade": "*",
+		"less": "*",
+		"less-middleware": "*",
+		"coffee-script": "*",
+		"socket.io": "*",
+		"socket.io-redis": "*",
+		"socket.io-handshake": "*",
+		"cookie": "*",
+		"connect-redis": "*",
+		"redis": "*"
+	}
+}
