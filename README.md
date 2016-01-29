@@ -46,10 +46,8 @@ $ chmod a+x run.sh
 ## Technologies Used
 * Node
 * Express
-* MongoDB
-* Mongoose
+* PostgreSQL
 * Redis
-* Phaser
 * Socket.IO
 * LESS
 * Jade
